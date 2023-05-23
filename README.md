@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlessandroCarotenuto
 - 👀 I’m interested in ICT Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on Data Engineering 
 - 📫 How to reach me [Alessandro Carotenuto](https://www.linkedin.com/in/alessandro-carotenuto-2b77b8201/)
 
 <!---
